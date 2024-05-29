@@ -1,0 +1,29 @@
+.profile {
+  padding-top: 100px;
+  .imageWrapper {
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .profileImage {
+    border-radius: 50%;
+  }
+
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .imageCredit {
+    font-size: 12px;
+  }
+
+  .textSection {
+    max-width: 45%;
+  }
+
+  .sectionTitle {
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
